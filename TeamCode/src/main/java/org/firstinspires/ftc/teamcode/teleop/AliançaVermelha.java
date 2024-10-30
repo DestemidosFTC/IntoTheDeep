@@ -20,6 +20,8 @@ public class AliançaVermelha extends CommandOpMode {
     private GamepadEx player1;
     private GamepadEx player2;
 
+    //gfsdhhbb
+
 
 
     @Override
